@@ -1,7 +1,7 @@
-package de.niklasmaul.observer;
+package de.niklasmaul.observerPattern;
 
-import de.niklasmaul.observer.view.HumidityView;
-import de.niklasmaul.observer.view.TemperatureView;
+import de.niklasmaul.observerPattern.view.HumidityView;
+import de.niklasmaul.observerPattern.view.TemperatureView;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

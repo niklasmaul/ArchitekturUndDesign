@@ -1,7 +1,7 @@
-package de.niklasmaul.zustand;
+package de.niklasmaul.statePattern;
 
-import de.niklasmaul.zustand.state.Green;
-import de.niklasmaul.zustand.state.IAmpelZustand;
+import de.niklasmaul.statePattern.states.Green;
+import de.niklasmaul.statePattern.states.IAmpelZustand;
 
 public class AmpelSchaltung {
 

@@ -1,4 +1,4 @@
-package de.niklasmaul.zustand.state;
+package de.niklasmaul.statePattern.states;
 
 public class Red implements IAmpelZustand{
 

@@ -1,7 +1,7 @@
-package de.niklasmaul.observer.view;
+package de.niklasmaul.observerPattern.view;
 
-import de.niklasmaul.observer.IObserver;
-import de.niklasmaul.observer.Weatherstation;
+import de.niklasmaul.observerPattern.IObserver;
+import de.niklasmaul.observerPattern.Weatherstation;
 
 public class TemperatureView implements IObserver {
 

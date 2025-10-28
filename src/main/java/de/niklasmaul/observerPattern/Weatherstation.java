@@ -1,4 +1,4 @@
-package de.niklasmaul.observer;
+package de.niklasmaul.observerPattern;
 
 public class Weatherstation extends Subject{
 
