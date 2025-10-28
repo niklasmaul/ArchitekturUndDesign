@@ -1,4 +1,4 @@
-package de.niklasmaul;
+package de.niklasmaul.observer;
 
 public interface IObserver {
     void update();

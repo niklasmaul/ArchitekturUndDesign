@@ -1,7 +1,7 @@
-package de.niklasmaul.view;
+package de.niklasmaul.observer.view;
 
-import de.niklasmaul.IObserver;
-import de.niklasmaul.Weatherstation;
+import de.niklasmaul.observer.IObserver;
+import de.niklasmaul.observer.Weatherstation;
 
 public class HumidityView implements IObserver {
 

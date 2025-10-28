@@ -1,11 +1,10 @@
-package de.niklasmaul;
+package de.niklasmaul.mvc;
 
-import de.niklasmaul.volumeController.VolumeController;
-import de.niklasmaul.volumeModel.VolumeModel;
-import de.niklasmaul.volumeView.VolumeView;
+import de.niklasmaul.mvc.volumeController.VolumeController;
+import de.niklasmaul.mvc.volumeModel.VolumeModel;
+import de.niklasmaul.mvc.volumeView.VolumeView;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     static void main() {
         VolumeModel volumeModel = new VolumeModel();

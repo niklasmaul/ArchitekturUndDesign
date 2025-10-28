@@ -1,4 +1,4 @@
-package de.niklasmaul;
+package de.niklasmaul.observer;
 
 import java.util.ArrayList;
 

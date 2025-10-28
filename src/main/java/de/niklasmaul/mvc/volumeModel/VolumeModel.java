@@ -1,4 +1,4 @@
-package de.niklasmaul.volumeModel;
+package de.niklasmaul.mvc.volumeModel;
 
 public class VolumeModel {
 

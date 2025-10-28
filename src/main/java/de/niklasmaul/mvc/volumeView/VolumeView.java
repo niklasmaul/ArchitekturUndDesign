@@ -1,7 +1,4 @@
-package de.niklasmaul.volumeView;
-
-import de.niklasmaul.volumeController.VolumeController;
-import de.niklasmaul.volumeModel.VolumeModel;
+package de.niklasmaul.mvc.volumeView;
 
 import javax.swing.*;
 
